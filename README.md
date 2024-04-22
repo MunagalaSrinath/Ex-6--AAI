@@ -1,5 +1,5 @@
-<H3>NAME: Shaik Shoaib Nawaz</H3>
-<H3>REGISTER NO: 212222240094</H3>
+<H3>NAME: M SRINATH</H3>
+<H3>REGISTER NO: 212222230147</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
